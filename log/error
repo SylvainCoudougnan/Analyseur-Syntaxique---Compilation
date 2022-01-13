@@ -1,0 +1,4 @@
+*** comments
+19.3-19.8: --- Erreur de typage erreur de type: integer ≠ string
+20.3-20.20: --- Erreur de typage erreur de type: integer ≠ float
+23.3-23.11: --- Erreur de typage erreur de type: integer ≠ float

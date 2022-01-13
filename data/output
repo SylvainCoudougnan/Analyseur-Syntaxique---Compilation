@@ -1,0 +1,29 @@
+*** begin compilation
+*** Put m => map<integer,integer> into var environment
+*** Put n => integer into local environment
+*** Put fib => (n:integer) -> integer into var environment
+*** Get n => integer from local environment
+*** Get n => integer from local environment
+*** Get m => null from local environment
+*** Get m => map<integer,integer> from var environment
+*** Get n => integer from local environment
+*** Get m => null from local environment
+*** Get m => map<integer,integer> from var environment
+*** Get n => integer from local environment
+*** Get fib => null from local environment
+*** Get fib => (n:integer) -> integer from var environment
+*** Get n => integer from local environment
+*** Get fib => null from local environment
+*** Get fib => (n:integer) -> integer from var environment
+*** Get n => integer from local environment
+*** Get m => null from local environment
+*** Get m => map<integer,integer> from var environment
+*** Get n => integer from local environment
+*** Put args => list<string> into local environment
+*** Put i => integer into local environment
+*** Get i => integer from local environment
+*** Get i => integer from local environment
+*** Get i => integer from local environment
+*** Get i => integer from local environment
+*** Get i => integer from local environment
+*** end compilation
